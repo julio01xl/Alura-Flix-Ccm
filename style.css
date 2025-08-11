@@ -1,17 +1,17 @@
 h1{
     color: red;
-font-size:40px:
+font: size 35px;px:
 text-align:center:
 }
 body{
-color:black;
+color:rgb(4, 138, 138)
 background-color:blue;
 }
 p{
 font-size:20px;
 color:black;
 }
-header{
+header{border-bottom: solid 2px rgb(0, 0, 0);
 color:blueviolet
 font-size:35px;
 border-bottom:solid 2px purple;
